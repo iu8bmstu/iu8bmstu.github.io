@@ -1,9 +1,9 @@
 # iu8bmstu.github.io
 ## Шаблоны документов
-### [Задание_КП_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/blob/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%9F_2018.doc)
-### [Задание_КР_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/blob/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%A0_2018.doc)
-### [Задание_НИРС_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/blob/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9D%D0%98%D0%A0%D0%A1_2018.doc)
-### [Календарный_план_НИРС_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/blob/master/stencil/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BB%D0%B0%D0%BD_%D0%9D%D0%98%D0%A0%D0%A1_2018.doc)
+### [Задание_КП_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%9F_2018.doc)
+### [Задание_КР_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%A0_2018.doc)
+### [Задание_НИРС_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9D%D0%98%D0%A0%D0%A1_2018.doc)
+### [Календарный_план_НИРС_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BB%D0%B0%D0%BD_%D0%9D%D0%98%D0%A0%D0%A1_2018.doc)
 
 
 ## Размещены результаты учебно-исследовательской практики
