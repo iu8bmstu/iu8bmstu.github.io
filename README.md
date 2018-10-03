@@ -7,7 +7,7 @@
 
 
 ## Размещены результаты НИРС
-## Дата актуальности 28.06.2018.  
+## Дата актуальности 03.10.2018.  
 
 ### [НИРС Осень 2018](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2018_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C.pdf)
 ### [5 курс хвосты](https://github.com/iu8bmstu/iu8bmstu.github.io/blob/master/%D0%9D%D0%98%D0%A0%D0%A1_2018_5_%D0%BA%D1%83%D1%80%D1%81.pdf)
