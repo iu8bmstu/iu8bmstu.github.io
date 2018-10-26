@@ -1,4 +1,5 @@
 # iu8bmstu.github.io
+# Все отчёты по летней практике-2018, находящиеся на руках у студентов, должны быть возвращены на кафедру в исправленном виде не позднее субботы 27 октября, 14:00, иначе будет выставлена оценка «неудовлетворительно».
 ## Шаблоны документов
 ### [Задание_КП_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%9F_2018.doc)
 ### [Задание_КР_2018.doc](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%A0_2018.doc)
