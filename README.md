@@ -8,7 +8,7 @@
 ### [ВКР магистров](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%91%D0%BB%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%A2%D0%97%2C%D0%9A%D0%B0%D0%BB.%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D1%82%D0%B8%D1%82%D1%83%D0%BB.%20%D0%BB%D0%B8%D1%81%D1%82%D0%B0%20-%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B-2018.doc)
 ### [ВКР специалистов](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/stencil/%D0%91%D0%BB%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%A2%D0%97%2C%D0%9A%D0%B0%D0%BB.%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%B8%20%D1%82%D0%B8%D1%82%D1%83%D0%BB.%20%D0%BB%D0%B8%D1%81%D1%82%D0%B0%20-%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82-2018.doc)
 
-## Размещены примеры оформления задания и плана ВКР для [магистров] и [специалистов]
+## Размещены примеры оформления задания и плана ВКР для [магистров](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20-%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B-2018.pdf) и [специалистов](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20-%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82-2018.pdf)
 ## Размещены результаты НИРС и практики
 ## Дата актуальности НИРС 06.11.2018.  
 ## Дата актуальности практика 06.11.2018
