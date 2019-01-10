@@ -5,7 +5,7 @@
 ## Дата актуальности хвостов 10.01.2019
 ## Дата актуальности ВКР-магистры 23.11.2018
 ## Дата актуальности практика 07.12.2018
-
+## [Расписание Левиев](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BB%D0%B5%D0%B2%D0%B8%D0%B5%D0%B2%20201901.pdf)
 ### [НИРС Осень 2018](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2018_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C.pdf)
 ### [ВКР-2018-Магистры](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%92%D0%9A%D0%A0_%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B_2018.pdf)
 ### [Практика лето 2018](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_2018_%D0%98%D0%A38.pdf)
