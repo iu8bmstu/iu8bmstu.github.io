@@ -6,6 +6,8 @@
 ## Дата актуальности ВКР 13.02.2019
 ## Дата актуальности практика 13.02.2019
 
+### [НИРС 5 курс весна 2019](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2019_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0_5.pdf)
+### [ВКР и НИРС дипломники 2019](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_%D0%92%D0%9A%D0%A0_2019_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0.pdf)
 ### [НИРС Осень 2018](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2018_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C.pdf)
 ### [ВКР-2018-Магистры](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%92%D0%9A%D0%A0_%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B_2018.pdf)
 ### [Практика лето 2018](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_2018_%D0%98%D0%A38.pdf)
