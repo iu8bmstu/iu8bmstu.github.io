@@ -7,6 +7,7 @@
 ## Дата актуальности шаблонов 06.04.2019
 ## Для студентов - если ТЗ и КП по НИРС не засчитаны (возврат) - значит есть ошибки!!!! Смена руководителя невозможна!!!!
 
+### [НИРС 4 курс весна 2019](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2019_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0_4.pdf)
 ### [НИРС 5 курс весна 2019](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2019_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0_5.pdf)
 ### [ВКР и НИРС дипломники 2019](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_%D0%92%D0%9A%D0%A0_2019_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0.pdf)
 ### [НИРС Осень 2018](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2018_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C.pdf)
