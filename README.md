@@ -3,13 +3,17 @@ iu8.su
 ## Дата актуальности НИРС 01.02.2020
 ## Дата актуальности ВКР 01.02.2020
 
+## Контрольные даты выпусников
+### [Контрольные даты специалитет 2020](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9B%D0%B8%D1%81%D1%82%20%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%202020.pdf)
+### [Контрольные даты магистратура 2020](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9B%D0%B8%D1%81%D1%82%20%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%202020.pdf)
+### [Контрольные даты аспирантура 2020](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9B%D0%B8%D1%81%D1%82%20%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B0%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BD%D1%82%D0%B0%202020.pdf)
 
 ## ВКР 
-### [Уведомление весна 2020]
 ### [Контрольный лист предзащиты ВКР 2020]
 ### [Программа для тестирования ВКР](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/TestVkr.exe)
 ### [Инструкция по работе с программа для тестирования ВКР](https://github.com/iu8bmstu/iu8bmstu.github.io/blob/master/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5%20%D1%81%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC%20%D0%92%D0%9A%D0%A0.exe)
 ### [Дипломники весна 2020 (ВКР, практика, НИРС]
+
 ## НИРС
 ### [НИРС весна 2020]
 ### [Распоряжение НИРС весна 2020]
