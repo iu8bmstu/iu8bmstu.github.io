@@ -7,6 +7,7 @@ iu8.su
 
 ## ВКР
 ### [ВКР 2021](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%92%D0%9A%D0%A0_2021.pdf)
+### [Контрольный лист ВКР 2021]()
 
 ## НИРС
 ### [НИРC весна 2021](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2021_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0.pdf)
