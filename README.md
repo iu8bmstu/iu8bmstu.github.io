@@ -8,7 +8,7 @@ iu8.su
 ## ВКР
 ### [ВКР 2021](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%92%D0%9A%D0%A0_2021.pdf)
 ### [Контрольный лист ВКР 2021](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B8%D1%81%D1%82%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%92%D0%9A%D0%A0_2021.pdf)
-### Шахалов И.Ю. принимает организационно-правовую часть. Тарапанова Е.А. данные не представила.
+### Беняев Н.Е., Шахалов И.Ю. и Тарапанова Е.А. данные представляют. Никаких отмен по консультантам нет.
 
 ## НИРС
 ### [НИРC весна 2021](https://github.com/iu8bmstu/iu8bmstu.github.io/raw/master/%D0%9D%D0%98%D0%A0%D0%A1_2021_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0.pdf)
